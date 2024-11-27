@@ -1,5 +1,6 @@
 Este guia descreve os passos para executar os sistemas especialistas desenvolvidos em Prolog, incluindo seus requisitos, instruções de configuração e exemplos de execução.
 
+Desenvolvedor: Guilherme Andersen Correa
 
 ## Pré-requisitos
 
